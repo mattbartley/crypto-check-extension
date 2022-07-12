@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Quick Stock+Crypto Price Checker",
+  "name": "Crypto Check",
   "version": "1.0",
   "description": "Quickly check the price of stocks and cryptocurrencies by right-clicking any ticker symbol found on a webpage.",
   "permissions": ["contextMenus", "tabs", "scripting"],
