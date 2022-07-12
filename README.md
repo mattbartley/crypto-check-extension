@@ -11,7 +11,7 @@
 
 ### Quick and Easy
 
-Have you ever come across a cryptocurrency on a site and want to know it's price?
+Have you ever come across a cryptocurrency on a site and want to know its price?
 
 👎 **The old way:**
 
