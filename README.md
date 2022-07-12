@@ -28,6 +28,9 @@ Have you ever come across a cryptocurrency on a site and want to know it's price
 2. Right-click the selection
 3. See the price in the menu
 
+
+*Price checked via the <a href="https://www.alphavantage.co/" target="_blank">Alpha Vantage API</a>*
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### License
