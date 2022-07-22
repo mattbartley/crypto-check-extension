@@ -32,10 +32,3 @@ Have you ever come across a cryptocurrency on a site and want to know its price?
 *Price checked via the <a href="https://www.alphavantage.co/" target="_blank">Alpha Vantage API</a>*
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-### License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-If you do use it, let me know - I'd love to see it in action!
-
-<p align="right">(<a href="#top">back to top</a>)</p>
